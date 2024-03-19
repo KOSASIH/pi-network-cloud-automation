@@ -1,0 +1,73 @@
+type
+  TPiNetEase = class
+  private
+    FPiNetControl: TPiNetControl;
+    procedure InitializeComponents;
+  public
+    constructor Create;
+    destructor Destroy; override;
+    procedure ManagePiNetwork;
+    procedure ManagePiCloud;
+    procedure ManagePiAutomation;
+    procedure ManagePiMonitoring;
+    procedure ManagePiSecurity;
+    procedure ManagePiBackup;
+    procedure ManagePiUpdate;
+    procedure ManagePiLog;
+  end;
+
+constructor TPiNetEase.Create;
+begin
+  InitializeComponents;
+end;
+
+destructor TPiNetEase.Destroy;
+begin
+  FPiNetControl.Free;
+  inherited;
+end;
+
+procedure TPiNetEase.InitializeComponents;
+begin
+  FPiNetControl := TPiNetControl.Create;
+end;
+
+procedure TPiNetEase.ManagePiNetwork;
+begin
+  FPiNetControl.ManagePiNetwork;
+end;
+
+procedure TPiNetEase.ManagePiCloud;
+begin
+  FPiNetControl.ManagePiCloud;
+end;
+
+procedure TPiNetEase.ManagePiAutomation;
+begin
+  FPiNetControl.ManagePiAutomation;
+end;
+
+procedure TPiNetEase.ManagePiMonitoring;
+begin
+  FPiNetControl.ManagePiMonitoring;
+end;
+
+procedure TPiNetEase.ManagePiSecurity;
+begin
+  FPiNetControl.ManagePiSecurity;
+end;
+
+procedure TPiNetEase.ManagePiBackup;
+begin
+  FPiNetControl.ManagePiBackup;
+end;
+
+procedure TPiNetEase.ManagePiUpdate;
+begin
+  FPiNetControl.ManagePiUpdate;
+end;
+
+procedure TPiNetEase.ManagePiLog;
+begin
+  FPiNetControl.ManagePiLog;
+end;
