@@ -16,9 +16,6 @@ Welcome to the Pi Network Cloud Automation repository! This repository contains 
 8. **Auto Scaling**: Implements auto-scaling solutions for Pi Network infrastructure on cloud platforms.
 9. **Cloud Monitoring**: Monitors Pi Network performance and activities on cloud infrastructure.
 10. **Auto Backup**: Manages automated backup solutions for Pi Network data on cloud storage.
-
-## Additional Contents
-
 11. **Cloud Orchestration**: Orchestrates complex Pi Network workflows and tasks across cloud environments.
 12. **Auto Provisioning**: Streamlines the process of provisioning resources for Pi Network on cloud platforms.
 13. **Cloud Security**: Focuses on ensuring robust security measures for Pi Network assets deployed on the cloud.
