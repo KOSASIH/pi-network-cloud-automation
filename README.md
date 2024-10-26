@@ -8,6 +8,16 @@
 [![AWS Certification](https://img.shields.io/badge/AWS%20Certification-Compliant-00BFFF.svg)](https://aws.amazon.com/certification/)
 [![Google Cloud Certification](https://img.shields.io/badge/Google%20Cloud%20Certification-Compliant-00BFFF.svg)](https://cloud.google.com/certification)
 [![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-Compliant-00BFFF.svg)](https://learn.microsoft.com/en-us/certifications/)
+[![ISO 9001 Certification](https://img.shields.io/badge/ISO%209001%20Certification-Compliant-00BFFF.svg)](https://www.iso.org/iso-9001-quality-management.html)
+[![IEEE CSDP Certification](https://img.shields.io/badge/IEEE%20CSDP%20Certification-Compliant-00BFFF.svg)](https://www.computer.org/education/certifications/csdp)
+[![PMI PMP Certification](https://img.shields.io/badge/PMI%20PMP%20Certification-Compliant-00BFFF.svg)](https://www.pmi.org/certifications/project-management-pmp)
+[![CompTIA A+ Certification](https://img.shields.io/badge/CompTIA%20A%2B%20Certification-Compliant-00BFFF.svg)](https://www.comptia.org/certifications/a)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Compliant-00BFFF.svg)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Cisco CCNA Certification](https://img.shields.io/badge/Cisco%20CCNA%20Certification-Compliant-00BFFF.svg)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+[![Google Cloud Professional Cloud Architect](https://img.shields.io/badge/Google%20Cloud%20Professional%20Cloud%20Architect-Compliant-00BFFF.svg)](https://cloud.google.com/certification/cloud-architect)
+[![Certified ScrumMaster (CSM)](https://img.shields.io/badge/Certified%20ScrumMaster%20(CSM)-Compliant-00BFFF.svg)](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
+[![ITIL Foundation Certification](https://img.shields.io/badge/ITIL%20Foundation%20Certification-Compliant-00BFFF.svg)](https://www.axelos.com/certifications/itil-certification)
+[![Six Sigma Green Belt Certification](https://img.shields.io/badge/Six%20Sigma%20Green%20Belt%20Certification-Compliant-00BFFF.svg)](https://www.sixsigmaonline.org/six-sigma-certification/green-belt-certification/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/pi-network-cloud-automation">CyberGuard</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
