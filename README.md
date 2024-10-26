@@ -18,6 +18,25 @@
 [![Certified ScrumMaster (CSM)](https://img.shields.io/badge/Certified%20ScrumMaster%20(CSM)-Compliant-00BFFF.svg)](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
 [![ITIL Foundation Certification](https://img.shields.io/badge/ITIL%20Foundation%20Certification-Compliant-00BFFF.svg)](https://www.axelos.com/certifications/itil-certification)
 [![Six Sigma Green Belt Certification](https://img.shields.io/badge/Six%20Sigma%20Green%20Belt%20Certification-Compliant-00BFFF.svg)](https://www.sixsigmaonline.org/six-sigma-certification/green-belt-certification/)
+[![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Compliant-00BFFF.svg)](https://www.isc2.org/certifications/cissp)
+[![Certified Ethical Hacker (CEH)](https://img.shields.io/badge/CEH-Compliant-00BFFF.svg)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Compliant-00BFFF.svg)](https://www.isaca.org/credentialing/cism)
+[![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/CISA-Compliant-00BFFF.svg)](https://www.isaca.org/credentialing/cisa)
+[![TOGAF Certification](https://img.shields.io/badge/TOGAF%20Certification-Compliant-00BFFF.svg)](https://www.opengroup.org/togaf)
+[![PRINCE2 Certification](https://img.shields.io/badge/PRINCE2%20Certification-Compliant-00BFFF.svg)](https://www.axelos.com/certifications/prince2-certification)
+[![Certified Scrum Product Owner (CSPO)](https://img.shields.io/badge/CSPO-Compliant-00BFFF.svg)](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner)
+[![Lean Six Sigma Certification](https://img.shields.io/badge/Lean%20Six%20Sigma%20Certification-Compliant-00BFFF.svg)](https://www.lean.org/Certification/)
+[![Certified Project Management Professional (PMP)](https://img.shields.io/badge/PMP-Compliant-00BFFF.svg)](https://www.pmi.org/certifications/project-management-pmp)
+[![CompTIA Security+ Certification](https://img.shields.io/badge/CompTIA%20Security%2B%20Certification-Compliant-00BFFF.svg)](https://www.comptia.org/certifications/security)
+[![Certified Cloud Security Professional (CCSP)](https://img.shields.io/badge/CCSP-Compliant-00BFFF.svg)](https://www.isc2.org/certifications/ccsp)
+[![Microsoft Azure Solutions Architect Expert](https://img.shields.io/badge/Azure%20Solutions%20Architect%20Expert-Compliant-00BFFF.svg)](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect-expert/)
+[![Google Cloud Professional Data Engineer](https://img.shields.io/badge/Google%20Cloud%20Professional%20Data%20Engineer-Compliant-00BFFF.svg)](https://cloud.google.com/certification/data-engineer)
+[![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified%20Developer-Compliant-00BFFF.svg)](https://aws.amazon.com/certification/certified-developer-associate/)
+[![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/CKA-Compliant-00BFFF.svg)](https://www.cncf.io/certification/cka/)
+[![Certified Kubernetes Application Developer (CKAD)](https://img.shields.io/badge/CKAD-Compliant-00BFFF.svg)](https://www.cncf.io/certification/ckad/)
+[![Certified Blockchain Professional (CBP)](https://img.shields.io/badge/CBP-Compliant-00BFFF.svg)](https://www.blockchain-council.org/certifications/certified-blockchain-professional/)
+[![Certified Data Privacy Solutions Engineer (CDPSE)](https://img.shields.io/badge/CDPSE-Compliant-00BFFF.svg)](https://www.isaca.org/credentialing/cdpse)
+
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/pi-network-cloud-automation">CyberGuard</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
